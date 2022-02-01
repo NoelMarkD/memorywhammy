@@ -113,6 +113,14 @@ body {
     color: red;
 }
 
+@media (max-width: 375px) {
+    .grid {
+        height: 250;
+        width: 200;
+    }
+}
+
+
  
 
  
